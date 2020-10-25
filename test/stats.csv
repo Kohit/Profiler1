@@ -1,0 +1,5 @@
+"Address","Name","AvgSelfTime(us)","AvgTime(us)","AvgMemory(bytes)","TotalSelfTime(us)","TotalTime(us)","TotalMemory(bytes)","InvokeTimes"
+"0XBDBDB0","allocmemory","205","205","405504","205","205","405504","1"
+"0XBD93A0","RunTest","28","263","405504","28","263","405504","1"
+"0XBD9460","Foo::Foo","18","30","0","18","30","0","1"
+"0XBD9350","Bar::Bar","12","12","0","12","12","0","1"
