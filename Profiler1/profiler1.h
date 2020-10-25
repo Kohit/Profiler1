@@ -255,11 +255,6 @@ private:
 	char buffer[sizeof(SYMBOL_INFO) + MAX_SYM_NAME * sizeof(TCHAR)];
 };
 
-// void _stdcall EnterFunc(unsigned* pStack);
-
-// void _stdcall ExitFunc(unsigned* pStack);
-
-
 /**
  * @brief Get the global instance of Profiler1
  * 
